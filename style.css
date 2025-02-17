@@ -171,18 +171,18 @@ display: flex;
  }
  .boton_intentar{
     width: 70%;
-     margin-left: 85px;
+ 
 
 }
 .container__input {
     width: 70%;
     margin-top: 10px;
-    margin-left: 90px;
+   
 }
 .boton_nuevoJuego{
   
     width: 70%;
  margin-top: 10px;
- margin-left: 85px;
+
 }
 }
