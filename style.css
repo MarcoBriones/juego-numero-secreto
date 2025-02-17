@@ -58,7 +58,7 @@ body::before {
     background: #1875E8;
     padding: 16px 24px;
     width: 100%;
-    font-size: 24px;
+    font-size: 1.25rem;
     font-weight: 700;
     border: none;
     margin-top: 2rem;
@@ -76,7 +76,7 @@ body::before {
     background:darkorange;
     padding: 16px 24px;
     width: 100%;
-    font-size: 24px;
+    font-size: 1.25rem;
     font-weight: 700;
     border: none;
     margin-top: 2rem;
@@ -107,7 +107,7 @@ body::before {
     border:none;
     color: #1875E8;
     padding: 2rem;
-    font-size: 24px;
+    font-size: 1.25rem;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
     text-align: center;
@@ -121,7 +121,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 65px;
+    font-size: 4rem;
     padding-bottom: 3rem;
 }
 
@@ -131,7 +131,7 @@ button {
 }
 
 .texto__parrafo {
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 400;
 }
 @media (max-width:1200px) {
