@@ -134,4 +134,27 @@ button {
     font-size: 32px;
     font-weight: 400;
 }
+@media (max-width:1200px) {
+   .container{
+    display: flex;
+    flex-direction: column;
+   }
+   .container__botones{
 
+    width: auto;
+    padding: 5%;
+    gap: 10px;
+    
+   }
+  
+  .container__imagen-persona{
+    width: 300px;
+    
+  }
+ .container{
+    height: 80%;
+    width: 80%;
+   
+
+}
+}
