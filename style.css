@@ -135,9 +135,18 @@ button {
     font-weight: 400;
 }
 @media (max-width:1200px) {
-   .container{
+  
+    .h1{
+        font-size: 1rem;
+        padding-bottom: 1rem;
+    }
+    .texto__parrafo{
+        font-size: 1.50rem;
+    }
+  
+    .container{
     display: flex;
-    flex-direction: column;
+margin: 10%;
    }
    .container__botones{
 display: flex;
@@ -152,6 +161,7 @@ display: flex;
   }
   .container__imagen-persona{
     width: 200px;
+
     
   }
  .container{
