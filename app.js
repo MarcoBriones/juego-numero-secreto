@@ -55,7 +55,12 @@ function btn_nuevoJuego(){
     limpiarCaja();//al tocar el boton nuevo juego se limpia la caja
     
    condicionesIniciales();  
+
+ 
+   
+  
 }
+
 condicionesIniciales();
 function condicionesIniciales(){
     tituloParrafo('h1',"Juego del numero secreto!");
