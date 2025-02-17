@@ -51,6 +51,7 @@ body::before {
 .container__informaciones {
     flex: 1;
     padding: 3rem;
+    
 }
 
 .boton_intentar{
@@ -91,9 +92,7 @@ body::before {
     
 }
 
-.container__texto {
-    margin: 16px 0 16px 0;
-}
+
 
 .container__texto-azul {
     color: #1875E8;
@@ -136,7 +135,13 @@ button {
 }
 @media (max-width:1200px) {
   
-    
+   
+    .container__informaciones {
+        flex: 1;
+        padding: 3rem 4rem;
+        
+    }
+
     h1{
         font-size: 3rem;
         padding-bottom: 3rem;
